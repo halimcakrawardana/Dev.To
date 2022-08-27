@@ -1,0 +1,4 @@
+Open Test Cases Folder
+Open Dev.To
+Click Verify Search
+Run
