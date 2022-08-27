@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_lbl</name>
+   <tag></tag>
+   <elementGuidId>98662766-3c74-46e0-ab15-fecaf4f19a28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//article[1]//a[.='#automationtesting']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//article[1]//a[.='#automationtesting']</value>
+      <webElementGuid>0dba4b69-8090-4dcf-a3c6-1b61ca5661d2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Title_lbl</name>
+   <tag></tag>
+   <elementGuidId>86d50702-94b7-4388-aa71-282b1077f6b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.crayons-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.crayons-title</value>
+      <webElementGuid>c2601311-130f-444f-9793-5cdb1d9a37db</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

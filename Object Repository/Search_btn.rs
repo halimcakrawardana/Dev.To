@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Search_btn</name>
+   <tag></tag>
+   <elementGuidId>84e88b87-17a3-4315-8585-b130dbab555b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>.inset-px</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>css</name>
+      <type>Main</type>
+      <value>.inset-px</value>
+      <webElementGuid>48a2646b-d4c1-40a7-b84e-028dcfa44f95</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
